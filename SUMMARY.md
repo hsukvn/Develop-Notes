@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Linux](linux.md)
-   * [Makefile](makefile.md)
    * [Library](library.md)
+   * [Makefile](makefile.md)
 
