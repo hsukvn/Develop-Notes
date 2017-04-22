@@ -10,4 +10,5 @@
   * [Hoisting](javascript/hoisting.md)
   * [Invocation](javascript/invocation.md)
   * [Scope Chain](javascript/scope-chain.md)
+  * [Asynchronize](javascript/asyncronize.md)
 
