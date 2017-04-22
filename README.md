@@ -1,4 +1,6 @@
-Develop Notes
-=======
+# Develop Notes
 
-Everything I have learned is note here.
+Notes during development
+
+
+
