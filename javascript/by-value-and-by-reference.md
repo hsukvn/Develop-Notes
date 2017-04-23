@@ -30,6 +30,21 @@ c.greeting = 'hello'; // mutate
 
 console.log(c);
 console.log(d);
+
+function changeGreeting(obj) {
+    obj.greeting = 'Hola';
+}
+
+changeGreeting(d);
+console.log(c);
+console.log(d);
+
+c = { greeting: 'howdy' } // sets up new memory space (new address)
+
+console.log(c);
+console.log(d);
+
+
 ```
 
 
