@@ -15,4 +15,6 @@
   * [Coercion](javascript/coercion.md)
   * [Default Value](javascript/default-value.md)
   * [JSON](javascript/json.md)
+  * [Functions](javascript/functions.md)
+  * [By Value and By Reference](javascript/by-value-and-by-reference.md)
 
