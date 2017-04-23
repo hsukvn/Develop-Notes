@@ -22,3 +22,10 @@ true
 
 the better way is to use `===` to save your life.
 
+## Reference
+
+* https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Equality\_comparisons\_and\_sameness
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality\_comparisons\_and\_sameness
+
+
+
