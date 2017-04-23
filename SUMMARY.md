@@ -14,4 +14,5 @@
   * [Primitive Type](javascript/primitive-type.md)
   * [Coercion](javascript/coercion.md)
   * [Default Value](javascript/default-value.md)
+  * [JSON](javascript/json.md)
 
