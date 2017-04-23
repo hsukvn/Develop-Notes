@@ -11,4 +11,6 @@
   * [Invocation](javascript/invocation.md)
   * [Scope Chain](javascript/scope-chain.md)
   * [Asynchronize](javascript/asyncronize.md)
+  * [Primitive Type](javascript/primitive-type.md)
+  * [Coercion](javascript/coercion.md)
 
