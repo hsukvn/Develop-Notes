@@ -22,5 +22,5 @@ null || undefined || 0 || 'hello'
 "hello"
 ```
 
-
+_Note: Be careful about `0`_
 
