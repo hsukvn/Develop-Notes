@@ -5,6 +5,7 @@
 * Variable Environment
 * Outer Environment
 * `this`
+* arguments \(in a function\)
 
 ### this
 
@@ -31,7 +32,7 @@ var c = {
      log: function() {
           this.name = 'Updated c object';
           consloe.log(this);
-          
+
           var setname = function(newname) {
                this.name = newname; // this point to the global object ... wtf -.-
           }
@@ -48,10 +49,10 @@ var c = {
      name: 'The c object',
      log: function() {
           var self = this;
-          
+
           self.name = 'Updated c object';
           consloe.log(self);
-          
+
           var setname = function(newname) {
                self.name = newname;
           }
@@ -61,6 +62,22 @@ var c = {
 }
 
 c.log(); // Object
+```
+
+### Arguments
+
+```javascript
+function greet(firstname, lastname, language) {
+    if (arguments.length === 0) {
+        console.log('Missing parameters!');
+    }
+    console.log(firstname);
+    console.log(lastname);
+    console.log(language);
+    console.log(arguments);
+}
+
+greet();
 ```
 
 
