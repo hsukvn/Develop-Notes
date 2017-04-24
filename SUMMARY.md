@@ -20,4 +20,5 @@
   * [Execution Context](javascript/execution-context.md)
   * [IIFE](javascript/iife.md)
   * [Closure](javascript/closure.md)
+  * [Callback](javascript/callback.md)
 
