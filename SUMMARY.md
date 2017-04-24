@@ -19,4 +19,5 @@
   * [By Value and By Reference](javascript/by-value-and-by-reference.md)
   * [Execution Context](javascript/execution-context.md)
   * [IIFE](javascript/iife.md)
+  * [Closure](javascript/closure.md)
 
