@@ -47,7 +47,7 @@ fs[1]();
 fs[2]();
 ```
 
-```javascirpt
+```javascript
 function buildFunctions() {
     var arr = [];
     for (var i = 0; i < 3; i++) {
