@@ -21,4 +21,5 @@
   * [IIFE](javascript/iife.md)
   * [Closure](javascript/closure.md)
   * [Callback](javascript/callback.md)
+  * [function programming](javascript/function-programming.md)
 
