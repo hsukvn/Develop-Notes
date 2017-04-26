@@ -22,4 +22,5 @@
   * [Closure](javascript/closure.md)
   * [Callback](javascript/callback.md)
   * [function programming](javascript/function-programming.md)
+  * [Inheritance](javascript/inheritance.md)
 
