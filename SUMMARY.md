@@ -23,4 +23,5 @@
   * [Callback](javascript/callback.md)
   * [function programming](javascript/function-programming.md)
   * [Inheritance](javascript/inheritance.md)
+  * [function constructors](javascript/new.md)
 
