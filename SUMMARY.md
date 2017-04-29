@@ -24,4 +24,8 @@
   * [function programming](javascript/function-programming.md)
   * [Inheritance](javascript/inheritance.md)
   * [function constructors](javascript/new.md)
+  * [Others](javascript/others.md)
+  * [Array](javascript/array.md)
+  * [Object.create](javascript/objectcreate.md)
+  * [Polyfill](javascript/polyfill.md)
 

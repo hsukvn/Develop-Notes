@@ -17,5 +17,13 @@ A type of data that represents a single value. That is, not an object.
 
 
 
+```javascript
+var a = 3;
+var b = new Number(3);
+
+ a == b // true
+ a === b // false
+```
+
 
 
