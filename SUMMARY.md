@@ -28,4 +28,5 @@
   * [Array](javascript/array.md)
   * [Object.create](javascript/objectcreate.md)
   * [Polyfill](javascript/polyfill.md)
+  * [Class](javascript/class.md)
 
