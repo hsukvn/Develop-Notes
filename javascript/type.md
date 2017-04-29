@@ -15,6 +15,9 @@ console.log(e instanceof Person); // check Person is in the prototype chain of e
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // bug forever // gives an Object
+
+var z = function() {};
+console.log(typeof z);
 ```
 
 

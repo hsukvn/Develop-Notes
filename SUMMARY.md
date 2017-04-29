@@ -30,4 +30,5 @@
   * [Polyfill](javascript/polyfill.md)
   * [Class](javascript/class.md)
   * [Type](javascript/type.md)
+  * [Use strict](javascript/use-strict.md)
 
